@@ -9,12 +9,10 @@
 [<img height="30" alt="Medium" src = "https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook">][Facebook]
 </div>
 <br/>
-<br/>
 
 ### 🤵‍♂️ About Me 
 
 I am a microservices engineer & full-stack developer. I am currently working as a Senior Software Engineer and Team Lead [@Raintree Systems](https://www.raintreeinc.com/). I am always excited about open source projects and collaborations. I love learning new things and sharing with the community. When not solving problems you can find me [backpacking, exploring the world][Instagram-nomadic], [satisfying my taste buds][Instagram-desithali], listening to music, or trying something new.
-<br/>
 <br/>
 
 ## 👨‍💻 Languages and Tools
@@ -36,9 +34,7 @@ I am a microservices engineer & full-stack developer. I am currently working as 
 </div>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
+
 
 ## Statistics
 
