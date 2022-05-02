@@ -13,6 +13,7 @@
 <br/>
 
 ### 🤵‍♂️ About Me 
+
 I am a microservices engineer & full-stack developer. I am currently working as a Senior Software Engineer and Team Lead [@Raintree Systems](https://www.raintreeinc.com/). I am always excited about open source projects and collaborations. I love learning new things and sharing with the community. When not solving problems you can find me [backpacking, exploring the world][Instagram-nomadic], [satisfying my taste buds][Instagram-desithali], listening to music, or trying something new.
 
 <br/>
@@ -41,8 +42,8 @@ I am a microservices engineer & full-stack developer. I am currently working as 
 
 ## Statistics
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=abhishekbhar&show_icons=true&include_all_commits=true&theme=radical&hide=issues,contribs)
 ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbhar&layout=compact&theme=radical&exclude_repo=theImortalsOfMeluha-AR-&hide=html,css,c#)
+![My github stats](https://github-readme-stats.vercel.app/api?username=abhishekbhar&show_icons=true&include_all_commits=true&theme=radical&hide=issues,contribs)
 
 Credits for the stats card - [Anurag Hazra's github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
