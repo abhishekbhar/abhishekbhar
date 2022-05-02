@@ -8,19 +8,18 @@
 [<img height="30" alt="Medium" src = "https://img.shields.io/badge/Medium-black?&style=for-the-badge&logo=medium">][medium]
 [<img height="30" alt="Medium" src = "https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook">][Facebook]
 </div>
-
 <br/>
 <br/>
 
 ### 🤵‍♂️ About Me 
 
 I am a microservices engineer & full-stack developer. I am currently working as a Senior Software Engineer and Team Lead [@Raintree Systems](https://www.raintreeinc.com/). I am always excited about open source projects and collaborations. I love learning new things and sharing with the community. When not solving problems you can find me [backpacking, exploring the world][Instagram-nomadic], [satisfying my taste buds][Instagram-desithali], listening to music, or trying something new.
-
 <br/>
 <br/>
 
 ## 👨‍💻 Languages and Tools
 
+<div>
 <img align="left" alt="HTML5" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
 <img align="left" alt="Sass" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
@@ -36,12 +35,9 @@ I am a microservices engineer & full-stack developer. I am currently working as 
 <img align="left" alt="NodeJS"height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="VS Code"height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="InteliJ"height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
-
+</div>
 <br/>
 <br/>
-
-
-
 
 ## Statistics
 
