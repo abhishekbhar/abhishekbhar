@@ -38,7 +38,7 @@ I am a microservices engineer & full-stack developer. I am currently working as 
 
 ## Statistics
 
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbhar&layout=compact&theme=radical&exclude_repo=theImortalsOfMeluha-AR-&hide=html,css,c#)
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbhar&layout=compact&theme=radical)
 ![My github stats](https://github-readme-stats.vercel.app/api?username=abhishekbhar&show_icons=true&include_all_commits=true&theme=radical&hide=issues,contribs)
 
 Credits for the stats card - [Anurag Hazra's github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
