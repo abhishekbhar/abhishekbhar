@@ -4,7 +4,6 @@
 # Hi, I am a [Abhishek Bhardwaj][website]  👋 
 [<img height="30" alt="Linkedin - anuradha15" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" alt="Twitter - miracle_404" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][Twitter] 
-[<img height="30" alt="YouTube channel" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube]
 [<img height="30" alt="Medium" src = "https://img.shields.io/badge/Medium-black?&style=for-the-badge&logo=medium">][medium]
 [<img height="30" alt="Medium" src = "https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook">][Facebook]
 </div>
